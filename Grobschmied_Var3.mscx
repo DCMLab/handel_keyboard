@@ -12,6 +12,7 @@
       <staffDistance>11</staffDistance>
       <akkoladeDistance>7.4</akkoladeDistance>
       <maxSystemDistance>19</maxSystemDistance>
+      <harmonyY>6</harmonyY>
       <page-layout>
         <page-height>2381.1</page-height>
         <page-width>1683.78</page-width>
@@ -129,7 +130,7 @@
       <VBox>
         <height>10</height>
         <Text>
-          <pos x="-0.29277" y="0.200114"/>
+          <pos x="-1.13545" y="-7.04691"/>
           <style>Composer</style>
           <text>G. Händel</text>
           </Text>
@@ -143,6 +144,7 @@
           <accidental>4</accidental>
           </KeySig>
         <StaffText>
+          <pos x="-1.48301" y="11.5716"/>
           <style>Tempo</style>
           <text>Più animato.</text>
           </StaffText>
@@ -151,6 +153,9 @@
           <velocity>49</velocity>
           <pos x="0.658281" y="8"/>
           </Dynamic>
+        <Harmony>
+          <name>.E.I</name>
+          </Harmony>
         <Slur id="2">
           <track>0</track>
           </Slur>
@@ -244,6 +249,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="2">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -286,6 +294,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <endSpanner id="3"/>
         <Tuplet id="4">
           <normalNotes>2</normalNotes>
@@ -334,6 +345,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <HairPin id="5">
           <subtype>0</subtype>
           <beginText>
@@ -428,6 +442,9 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="5">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -475,6 +492,9 @@
           <velocity>49</velocity>
           <pos x="0.537453" y="9.45454"/>
           </Dynamic>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <endSpanner id="5"/>
         <Tuplet id="8">
           <normalNotes>2</normalNotes>
@@ -518,6 +538,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <HairPin id="7">
           <subtype>0</subtype>
           <useTextLine>1</useTextLine>
@@ -612,6 +635,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio(2)</name>
+          </Harmony>
         <Beam id="8">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -654,6 +680,9 @@
             <tpc>24</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Tuplet id="12">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -693,6 +722,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii65/V</name>
+          </Harmony>
         <endSpanner id="7"/>
         <HairPin id="8">
           <subtype>1</subtype>
@@ -755,6 +787,9 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V/V</name>
+          </Harmony>
         <Tuplet id="14">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -795,6 +830,9 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Beam id="10">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -837,6 +875,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <Tuplet id="16">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -884,6 +925,9 @@
           <velocity>36</velocity>
           <pos x="1.1813" y="8.61042"/>
           </Dynamic>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <endSpanner id="8"/>
         <Beam id="11">
           <StemDirection>up</StemDirection>
@@ -965,6 +1009,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="12">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1007,6 +1054,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Tuplet id="20">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1049,6 +1099,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="14">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1134,6 +1187,9 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Beam id="15">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1176,6 +1232,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V65</name>
+          </Harmony>
         <Tuplet id="24">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1215,6 +1274,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="17">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1298,6 +1360,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio(2)</name>
+          </Harmony>
         <Beam id="18">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1340,6 +1405,9 @@
             <tpc>24</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V6</name>
+          </Harmony>
         <Tuplet id="28">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1378,6 +1446,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6/V</name>
+          </Harmony>
         <Beam id="19">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1420,6 +1491,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V/V</name>
+          </Harmony>
         <Tuplet id="30">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1460,6 +1534,9 @@
           </Chord>
         </Measure>
       <Measure number="5" len="1/4">
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Beam id="20">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1501,6 +1578,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V7</name>
+          </Harmony>
         <Beam id="21">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1564,6 +1644,9 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="22">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1651,6 +1734,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Beam id="24">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -1740,6 +1826,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <endSpanner id="14"/>
         <Beam id="25">
           <StemDirection>up</StemDirection>
@@ -1783,6 +1872,9 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Tuplet id="38">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -1829,6 +1921,9 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <HairPin id="16">
           <subtype>1</subtype>
           <beginText>
@@ -1918,6 +2013,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <endSpanner id="16"/>
         <Beam id="28">
           <StemDirection>down</StemDirection>
@@ -1970,6 +2068,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Tuplet id="42">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2009,6 +2110,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii7</name>
+          </Harmony>
         <endSpanner id="17"/>
         <Slur id="18">
           <track>0</track>
@@ -2059,6 +2163,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V43</name>
+          </Harmony>
         <Tuplet id="44">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2097,6 +2204,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Beam id="30">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2139,6 +2249,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii65</name>
+          </Harmony>
         <Tuplet id="46">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2182,6 +2295,9 @@
         <LayoutBreak>
           <subtype>line</subtype>
           </LayoutBreak>
+        <Harmony>
+          <name>V\\</name>
+          </Harmony>
         <Beam id="31">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2224,6 +2340,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio64</name>
+          </Harmony>
         <Tuplet id="48">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2263,6 +2382,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <Slur id="19">
           <track>0</track>
           <up>2</up>
@@ -2310,6 +2432,9 @@
             <tpc>23</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>I</name>
+          </Harmony>
         <Tuplet id="50">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2353,6 +2478,9 @@
           <style>Dynamics</style>
           <text>poco a poco</text>
           </StaffText>
+        <Harmony>
+          <name>IV</name>
+          </Harmony>
         <Beam id="33">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2395,6 +2523,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii6</name>
+          </Harmony>
         <Tuplet id="52">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2433,6 +2564,9 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <HairPin id="20">
           <subtype>0</subtype>
           <useTextLine>1</useTextLine>
@@ -2495,6 +2629,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>iii6</name>
+          </Harmony>
         <Tuplet id="54">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2535,6 +2672,9 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <name>vi</name>
+          </Harmony>
         <HairPin id="21">
           <subtype>0</subtype>
           <Segment>
@@ -2591,6 +2731,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>IV6</name>
+          </Harmony>
         <Tuplet id="56">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2629,6 +2772,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V(64)</name>
+          </Harmony>
         <Beam id="36">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -2671,6 +2817,9 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>viio</name>
+          </Harmony>
         <endSpanner id="21"/>
         <Slur id="22">
           <track>0</track>
@@ -2725,6 +2874,9 @@
           <velocity>96</velocity>
           <pos x="0.918354" y="11.0457"/>
           </Dynamic>
+        <Harmony>
+          <name>I6</name>
+          </Harmony>
         <endSpanner id="20"/>
         <Beam id="38">
           <StemDirection>down</StemDirection>
@@ -2806,6 +2958,9 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>ii65</name>
+          </Harmony>
         <Beam id="39">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -2848,6 +3003,9 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <name>V</name>
+          </Harmony>
         <Tuplet id="62">
           <normalNotes>2</normalNotes>
           <actualNotes>3</actualNotes>
@@ -2889,6 +3047,9 @@
         </Measure>
       <Measure number="9" len="1/4">
         <endRepeat>2</endRepeat>
+        <Harmony>
+          <name>I\\</name>
+          </Harmony>
         <Volta id="23">
           <endHook>1</endHook>
           <beginText>
@@ -2982,6 +3143,9 @@
         </Measure>
       <Measure number="10" len="1/4">
         <irregular/>
+        <Harmony>
+          <name>I\\</name>
+          </Harmony>
         <endSpanner id="23"/>
         <Volta id="24">
           <endHook>1</endHook>
