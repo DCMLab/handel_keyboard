@@ -1,7 +1,7 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle
-./Grobschmied_Aria.mscx	Grobschmied_Aria	.mscx	46639e8e9570870f15456da27f7b0b51	0	4	4/4	Franz Schubert	2.3.2	Menuett Nr. 1
-./Grobschmied_Var1.mscx	Grobschmied_Var1	.mscx	cb5d34ee2332fdba752fad339a7a5262	0	4		Franz Schubert	2.3.2	Menuett Nr. 1
-./Grobschmied_Var2.mscx	Grobschmied_Var2	.mscx	d84ff9405ed6e9f7c6e4936965805922	0	4		Franz Schubert	2.3.2	Menuett Nr. 1
-./Grobschmied_Var3.mscx	Grobschmied_Var3	.mscx	3598fac7eed58ab4a563e216d95df197	0	4		Franz Schubert	2.3.2	Menuett Nr. 1
-./Grobschmied_Var4.mscx	Grobschmied_Var4	.mscx	7b2bba74abc41e03df20b5dedb4fdd55	0	4		Franz Schubert	2.3.2	Menuett Nr. 1
-./Grobschmied_Var5.mscx	Grobschmied_Var5	.mscx	db137028f5aeb9bc350ff8042a0e0da3	0	4		Franz Schubert	2.3.2	Menuett Nr. 1
+path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle	movementNumber	movementTitle	composed_start	composed_end
+./Grobschmied_Aria.mscx	Grobschmied_Aria	.mscx	46639e8e9570870f15456da27f7b0b51	0	4	4/4	G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+./Grobschmied_Var1.mscx	Grobschmied_Var1	.mscx	cb5d34ee2332fdba752fad339a7a5262	0	4		G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+./Grobschmied_Var2.mscx	Grobschmied_Var2	.mscx	d84ff9405ed6e9f7c6e4936965805922	0	4		G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+./Grobschmied_Var3.mscx	Grobschmied_Var3	.mscx	3598fac7eed58ab4a563e216d95df197	0	4		G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+./Grobschmied_Var4.mscx	Grobschmied_Var4	.mscx	7b2bba74abc41e03df20b5dedb4fdd55	0	4		G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+./Grobschmied_Var5.mscx	Grobschmied_Var5	.mscx	db137028f5aeb9bc350ff8042a0e0da3	0	4		G.F. Händel	2.3.2	Suite in E major no. 5	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
