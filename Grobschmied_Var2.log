@@ -1,0 +1,12 @@
+INFO     Grobschmied_Var2.ms3 -- Attempting to parse Grobschmied_Var2.mscx
+ERROR    Grobschmied_Var2.ms3 -- Time signature not defined in the first measure of staff 1.
+ERROR    Grobschmied_Var2.ms3 -- Time signature not defined in the first measure of staff 2.
+CRITICAL Grobschmied_Var2.ms3 -- self.info.duration contains only NaN values.
+WARNING  Grobschmied_Var2.ms3 -- MC 1 seems to be a pickup measure but has not been excluded from bar count!
+WARNING  Grobschmied_Var2.ms3 -- MC 2 (nan) and MC 3 (nan) don't add up to nan.
+WARNING  Grobschmied_Var2.ms3 -- MC 4 (nan) and MC 5 (1/4) don't add up to nan.
+WARNING  Grobschmied_Var2.ms3 -- MC 6 (3/4) and MC 7 (nan) don't add up to nan.
+WARNING  Grobschmied_Var2.ms3 -- MC 8 (nan) and MC 9 (nan) don't add up to nan.
+WARNING  Grobschmied_Var2.ms3 -- MC 10 (1/4) and MC 6 (3/4) don't add up to nan.
+INFO     Grobschmied_Var2.ms3 -- Done parsing Grobschmied_Var2.mscx
+
