@@ -1,7 +1,13 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle	movementNumber	movementTitle	composed_start	composed_end
-MS3/Grobschmied_Aria.mscx	Grobschmied_Aria	.mscx	3d2a5652dbd1864e5d213da0c05f336f	54	4	4/4	Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
-MS3/Grobschmied_Var1.mscx	Grobschmied_Var1	.mscx	ddc247afb29ce248a64c6b463810f25a	54	4		Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
-MS3/Grobschmied_Var2.mscx	Grobschmied_Var2	.mscx	d985518e451905ccc4db18aab98757d9	60	4		Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
-MS3/Grobschmied_Var3.mscx	Grobschmied_Var3	.mscx	89c7819bbca7b75c5fdf8c63bac14d4e	54	4		Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
-MS3/Grobschmied_Var4.mscx	Grobschmied_Var4	.mscx	505a10b7e3875fc37b90121f855adc33	70	4		Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
-MS3/Grobschmied_Var5.mscx	Grobschmied_Var5	.mscx	ae0ce88feabcdf1e2a4df7f3a1525058	65	4		Franz Schubert	3.4.2	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""	1720	1720
+		last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	composed_end	composed_start	extension	md5	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument
+MS3	Grobschmied_Aria	10	9	1: 4	1: 4/4	54	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	28-76 (E1-E5)					56-76 (G#3-E5)	Piano	28-61 (E1-C#4)	Piano
+MS3	Grobschmied_Var1	10	9	1: 4	1: 4/4	54	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	35-76 (B1-E5)					56-76 (G#3-E5)	Piano	35-61 (B1-C#4)	Piano
+MS3	Grobschmied_Var2	10	9	1: 4	1: 4/4	60	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	35-76 (B1-E5)					56-76 (G#3-E5)	Piano	35-64 (B1-E4)	Piano
+MS3	Grobschmied_Var3	11	9	1: 4	1: 4/4	54	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	40-80 (E2-G#5)					56-80 (G#3-G#5)	Piano	40-64 (E2-E4)	Piano
+MS3	Grobschmied_Var4	11	9	1: 4	1: 4/4	70	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	35-78 (B1-F#5)					56-78 (G#3-F#5)	Piano	35-61 (B1-C#4)	Piano
+MS3	Grobschmied_Var5	13	13	1: 4	1: 4/4	65	E	Franz Schubert	Menuett Nr. 1								2019-08-01	Linux			3.4.2	28-83 (E1-B5)					54-83 (F#3-B5)	Piano	28-61 (E1-C#4)	Piano
+MS3/Grobschmied_Aria.mscx	Grobschmied_Aria			4	4/4	54		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	3d2a5652dbd1864e5d213da0c05f336f				
+MS3/Grobschmied_Var1.mscx	Grobschmied_Var1			4		54		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	ddc247afb29ce248a64c6b463810f25a				
+MS3/Grobschmied_Var2.mscx	Grobschmied_Var2			4		60		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	d985518e451905ccc4db18aab98757d9				
+MS3/Grobschmied_Var3.mscx	Grobschmied_Var3			4		54		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	89c7819bbca7b75c5fdf8c63bac14d4e				
+MS3/Grobschmied_Var4.mscx	Grobschmied_Var4			4		70		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	505a10b7e3875fc37b90121f855adc33				
+MS3/Grobschmied_Var5.mscx	Grobschmied_Var5			4		65		Franz Schubert	Menuett Nr. 1	4	"Air & 5 variations ""The Harmonious Blacksmith"""										3.4.2		1720	1720	.mscx	ae0ce88feabcdf1e2a4df7f3a1525058				
