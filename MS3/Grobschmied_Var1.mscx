@@ -151,12 +151,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Adrian Nagel</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Georg Friedrich Händel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
+    <metaTag name="harmony_version">2.1.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">4</metaTag>
     <metaTag name="movementTitle">Variation 1</metaTag>
