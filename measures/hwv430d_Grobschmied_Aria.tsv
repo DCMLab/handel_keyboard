@@ -1,0 +1,11 @@
+mc	mn	keysig	timesig	act_dur	mc_offset	numbering_offset	dont_count	barline	breaks	repeats	next
+1	1	4	4/4	1	0					firstMeasure	2
+2	2	4	4/4	1	0				line		3
+3	3	4	4/4	1	0						4
+4	4	4	4/4	1	0						5
+5	5	4	4/4	1/4	0			double	line		6
+6	5	4	4/4	3/4	1/4		1	start-repeat		start	7
+7	6	4	4/4	1	0				line		8
+8	7	4	4/4	1	0						9
+9	8	4	4/4	1	0						10
+10	9	4	4/4	1/4	0					end	6, -1
