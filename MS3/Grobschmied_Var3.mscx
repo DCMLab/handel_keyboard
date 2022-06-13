@@ -152,19 +152,22 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer">Franz Schubert</metaTag>
+    <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_start">1720</metaTag>
+    <metaTag name="composer">Georg Friedrich Händel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">4</metaTag>
+    <metaTag name="movementTitle">Variation 3</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/85857</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Menuett Nr. 1</metaTag>
+    <metaTag name="workNumber">HWV 430</metaTag>
+    <metaTag name="workTitle">Suite in E major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -249,6 +252,11 @@
           <KeySig>
             <accidental>4</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <SystemText>
             <style>Tempo</style>
             <placement>below</placement>
@@ -430,7 +438,7 @@
                 </Slur>
               <next>
                 <location>
-                  <measures>1</measures>
+                  <measures>-1</measures>
                   <fractions>-1/3</fractions>
                   </location>
                 </next>
@@ -532,9 +540,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -545,9 +550,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -566,25 +568,12 @@
             </Chord>
           <Chord>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>1/3</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
               </Note>
             </Chord>
           <endTuplet/>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="0.537453" y="5.45454"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -605,17 +594,11 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.254443"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -656,9 +639,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -729,9 +709,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -825,9 +802,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -913,9 +887,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -978,11 +949,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>36</velocity>
-            <offset x="1.1813" y="4.61042"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -1000,9 +966,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1070,9 +1033,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1117,17 +1077,11 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0931323" y="0.0931323"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1158,9 +1112,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1222,9 +1173,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -1235,9 +1183,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1282,9 +1227,6 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1320,9 +1262,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1393,9 +1332,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1463,9 +1399,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1526,7 +1459,7 @@
           <endTuplet/>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -1537,9 +1470,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1573,9 +1503,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1600,14 +1527,10 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.136355" y="0.27271"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
-                  <measures>1</measures>
-                  <fractions>-1/24</fractions>
+                  <fractions>5/24</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -1628,15 +1551,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure len="3/4">
-        <startRepeat/>
-        <irregular>1</irregular>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
-        <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -1646,9 +1560,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1682,17 +1593,13 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <measures>-1</measures>
-                  <fractions>1/24</fractions>
+                  <fractions>-5/24</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -1735,9 +1642,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1822,9 +1726,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1868,14 +1769,6 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.329141" y="6.0453"/>
-            </Dynamic>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -1885,7 +1778,7 @@
               <next>
                 <location>
                   <measures>1</measures>
-                  <fractions>-5/24</fractions>
+                  <fractions>-11/24</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -1925,9 +1818,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2002,9 +1892,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2071,7 +1958,7 @@
               <prev>
                 <location>
                   <measures>-1</measures>
-                  <fractions>5/24</fractions>
+                  <fractions>11/24</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -2097,17 +1984,11 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.190832" y="-5.55654e-19"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2180,9 +2061,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2244,9 +2122,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -2257,9 +2132,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2335,9 +2207,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2407,12 +2276,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <StaffText>
-            <style>Dynamics</style>
-            <placement>below</placement>
-            <offset x="9.59264" y="6.7008"/>
-            <text>poco a poco</text>
-            </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -2422,9 +2285,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2487,16 +2347,6 @@
             <HairPin>
               <subtype>2</subtype>
               <endText></endText>
-              <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="6.3283"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2514,9 +2364,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2582,11 +2429,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.96566"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -2603,9 +2445,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2673,9 +2512,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2724,17 +2560,11 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0931323" y="0.279397"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -2764,11 +2594,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.918354" y="7.0457"/>
-            </Dynamic>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -2786,9 +2611,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2856,9 +2678,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2919,8 +2738,7 @@
           <endTuplet/>
           </voice>
         </Measure>
-      <Measure len="1/4">
-        <endRepeat>2</endRepeat>
+      <Measure>
         <voice>
           <Spanner type="Volta">
             <Volta>
@@ -2930,7 +2748,7 @@
               </Volta>
             <next>
               <location>
-                <measures>1</measures>
+                <fractions>1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -2943,9 +2761,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -2979,9 +2794,6 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -3014,15 +2826,10 @@
               </Note>
             </Chord>
           <endTuplet/>
-          </voice>
-        </Measure>
-      <Measure len="1/4">
-        <irregular>1</irregular>
-        <voice>
           <Spanner type="Volta">
             <prev>
               <location>
-                <measures>-1</measures>
+                <fractions>-1/4</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -3047,17 +2854,11 @@
               <text>3</text>
               </Number>
             </Tuplet>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0931323" y="-0.186265"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -3090,11 +2891,11 @@
             </Chord>
           <endTuplet/>
           <Rest>
-            <durationType>eighth</durationType>
+            <durationType>half</durationType>
             </Rest>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -3102,6 +2903,12 @@
                 </location>
               </prev>
             </Spanner>
+          <location>
+            <fractions>3/8</fractions>
+            </location>
+          <Rest>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -3111,6 +2918,11 @@
           <KeySig>
             <accidental>4</accidental>
             </KeySig>
+          <TimeSig>
+            <subtype>1</subtype>
+            <sigN>4</sigN>
+            <sigD>4</sigD>
+            </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>E.I</name>
@@ -3300,9 +3112,6 @@
             <harmonyType>1</harmonyType>
             <name>viio(2)</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3345,9 +3154,6 @@
             <harmonyType>1</harmonyType>
             <name>ii65/V</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3378,9 +3184,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3402,6 +3205,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           </voice>
         </Measure>
       <Measure>
@@ -3638,9 +3444,6 @@
             <harmonyType>1</harmonyType>
             <name>ii6/V</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3671,9 +3474,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -3695,9 +3495,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -3721,20 +3524,6 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          </voice>
-        <voice>
-          <Chord>
-            <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>47</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure len="3/4">
-        <voice>
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
@@ -3809,6 +3598,14 @@
             </Harmony>
           </voice>
         <voice>
+          <Chord>
+            <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
+            <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -3945,9 +3742,6 @@
             <harmonyType>1</harmonyType>
             <name>I</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4013,9 +3807,6 @@
             <harmonyType>1</harmonyType>
             <name>V\\</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4045,9 +3836,6 @@
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4210,9 +3998,6 @@
             <harmonyType>1</harmonyType>
             <name>I6</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4278,9 +4063,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4324,9 +4106,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -4357,7 +4136,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure len="1/4">
+      <Measure>
         <voice>
           <StaffText>
             <style>Dynamics</style>
@@ -4377,10 +4156,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          </voice>
-        </Measure>
-      <Measure len="1/4">
-        <voice>
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
@@ -4399,11 +4174,14 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>double</subtype>
-            </BarLine>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Rest>
             <offset x="0" y="-2"/>
             <durationType>eighth</durationType>
@@ -4428,6 +4206,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <durationType>half</durationType>
+            </Rest>
           </voice>
         </Measure>
       </Staff>

@@ -6,17 +6,11 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 
 
 # Overview
-|file_name|measures|labels|standard|annotators|reviewers|
-|---------|-------:|-----:|--------|----------|---------|
-|         |       9|    54|        |          |         |
-|         |       9|    54|        |          |         |
-|         |       9|    60|        |          |         |
-|         |       9|    54|        |          |         |
-|         |       9|    70|        |          |         |
-|         |      13|    65|        |          |         |
-|         |        |    54|        |          |         |
-|         |        |    54|        |          |         |
-|         |        |    60|        |          |         |
-|         |        |    54|        |          |         |
-|         |        |    70|        |          |         |
-|         |        |    65|        |          |         |
+|   file_name    |measures|labels|standard|annotators|reviewers|
+|----------------|-------:|-----:|--------|----------|---------|
+|Grobschmied_Aria|       9|    54|        |          |         |
+|Grobschmied_Var1|       8|    54|        |          |         |
+|Grobschmied_Var2|       8|    60|        |          |         |
+|Grobschmied_Var3|       8|    54|        |          |         |
+|Grobschmied_Var4|       8|    70|        |          |         |
+|Grobschmied_Var5|      12|    65|        |          |         |
