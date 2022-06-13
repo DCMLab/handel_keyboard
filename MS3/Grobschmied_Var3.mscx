@@ -2738,7 +2738,8 @@
           <endTuplet/>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
+        <endRepeat>2</endRepeat>
         <voice>
           <Spanner type="Volta">
             <Volta>
@@ -2748,7 +2749,7 @@
               </Volta>
             <next>
               <location>
-                <fractions>1/4</fractions>
+                <measures>1</measures>
                 </location>
               </next>
             </Spanner>
@@ -2826,10 +2827,15 @@
               </Note>
             </Chord>
           <endTuplet/>
+          </voice>
+        </Measure>
+      <Measure len="1/4">
+        <irregular>1</irregular>
+        <voice>
           <Spanner type="Volta">
             <prev>
               <location>
-                <fractions>-1/4</fractions>
+                <measures>-1</measures>
                 </location>
               </prev>
             </Spanner>
@@ -2891,11 +2897,8 @@
             </Chord>
           <endTuplet/>
           <Rest>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -2903,12 +2906,6 @@
                 </location>
               </prev>
             </Spanner>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Rest>
-            <durationType>eighth</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -4136,7 +4133,7 @@
             </Chord>
           </voice>
         </Measure>
-      <Measure>
+      <Measure len="1/4">
         <voice>
           <StaffText>
             <style>Dynamics</style>
@@ -4156,6 +4153,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          </voice>
+        <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure len="1/4">
+        <voice>
           <StaffText>
             <style>Dynamics</style>
             <placement>below</placement>
@@ -4174,14 +4180,8 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Rest>
             <offset x="0" y="-2"/>
             <durationType>eighth</durationType>
@@ -4206,9 +4206,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <durationType>half</durationType>
-            </Rest>
           </voice>
         </Measure>
       </Staff>
