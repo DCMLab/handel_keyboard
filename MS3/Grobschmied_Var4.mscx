@@ -146,7 +146,6 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.764</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -246,6 +245,7 @@
           </Text>
         </VBox>
       <Measure len="3/4">
+        <irregular>1</irregular>
         <voice>
           <KeySig>
             <accidental>4</accidental>
@@ -1206,7 +1206,7 @@
               </Note>
             </Chord>
           <location>
-            <fractions>0</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Spanner type="HairPin">
             <prev>
@@ -1230,7 +1230,6 @@
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>76</pitch>
               <tpc>18</tpc>
@@ -1269,9 +1268,6 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -1432,9 +1428,9 @@
             </Chord>
           </voice>
         <voice>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -1823,19 +1819,15 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/2</fractions>
+                  <fractions>5/8</fractions>
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>2</subtype>
@@ -1849,31 +1841,19 @@
             <next>
               <location>
                 <measures>1</measures>
-                <fractions>-1/2</fractions>
+                <fractions>-5/8</fractions>
                 </location>
               </next>
             </Spanner>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>66</pitch>
               <tpc>20</tpc>
@@ -1882,23 +1862,16 @@
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
-                  <o4 x="1.50718e-16" y="-0.247918"/>
-                  <offset x="0" y="-0.0439842"/>
-                  </SlurSegment>
-                </Slur>
-              <next>
+              <prev>
                 <location>
-                  <measures>1</measures>
-                  <fractions>-3/4</fractions>
+                  <fractions>-5/8</fractions>
                   </location>
-                </next>
+                </prev>
               </Spanner>
             <Articulation>
               <subtype>articAccentAbove</subtype>
+              <anchor>3</anchor>
               </Articulation>
-            <StemDirection>up</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -1984,7 +1957,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <pitch>68</pitch>
               <tpc>22</tpc>
@@ -2033,7 +2005,7 @@
             <prev>
               <location>
                 <measures>-1</measures>
-                <fractions>1/2</fractions>
+                <fractions>5/8</fractions>
                 </location>
               </prev>
             </Spanner>
@@ -2058,14 +2030,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>3/4</fractions>
-                  </location>
-                </prev>
-              </Spanner>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
