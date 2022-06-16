@@ -2009,14 +2009,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>ii6/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>V(64)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
