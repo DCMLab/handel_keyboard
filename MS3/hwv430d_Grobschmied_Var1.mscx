@@ -2523,7 +2523,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>E.I</name>
+            <name>E.I{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -2695,7 +2695,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>ii6/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2710,7 +2710,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>iii%65/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2843,7 +2843,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>I/V}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2889,7 +2889,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -2940,11 +2940,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V</name>
+            <name>V[V(4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3212,7 +3216,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>I/V}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3263,7 +3267,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -3588,7 +3592,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3630,7 +3634,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4057,7 +4061,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
