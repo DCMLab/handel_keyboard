@@ -2741,7 +2741,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V\\</name>
+            <name>V|HC</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3359,10 +3359,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
