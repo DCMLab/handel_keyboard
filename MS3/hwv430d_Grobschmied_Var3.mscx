@@ -2912,7 +2912,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>E.I</name>
+            <name>E.I{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -3208,7 +3208,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V|PAC</name>
+            <name>I/V|PAC}</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -3237,7 +3237,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -3493,7 +3493,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V|PAC</name>
+            <name>I/V|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -3521,7 +3521,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-1"/>
@@ -3794,7 +3794,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -3823,7 +3823,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>I6{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -4135,7 +4135,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
