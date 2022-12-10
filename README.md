@@ -1,8 +1,6 @@
-# annotation_workflow_template
+# G.F. Händel - Air & 5 variations "The Harmonious Blacksmith", HWV 430
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
-
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Readily annotated
 
 
 # Overview
