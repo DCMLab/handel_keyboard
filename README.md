@@ -1,8 +1,6 @@
-# annotation_workflow_template
+# G.F. Händel - Air & 5 variations "The Harmonious Blacksmith", HWV 430
 
-This repo holds the current version of the DCML annotation workflow which is pulled by all subcorpus repos upon push to their main branch. 
-
-Please note that the `meta_ corpora` branch should be used with collections of corpora.
+Readily annotated
 
 
 # Overview
@@ -10,7 +8,10 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |------------------------|-------:|-----:|--------|-------------------------------------------|---------|
 |hwv430d_Grobschmied_Aria|       9|    51|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 |hwv430d_Grobschmied_Var1|       8|    56|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
-|hwv430d_Grobschmied_Var2|       8|    60|2.1.0   |Adrian Nagel                               |         |
+|hwv430d_Grobschmied_Var2|       8|    58|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 |hwv430d_Grobschmied_Var3|       8|    56|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
-|hwv430d_Grobschmied_Var4|       8|    14|2.1.0   |Adrian Nagel                               |         |
+|hwv430d_Grobschmied_Var4|       8|    68|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 |hwv430d_Grobschmied_Var5|      12|    61|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
+
+
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.0.*
