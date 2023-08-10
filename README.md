@@ -3,7 +3,7 @@
 Readily annotated
 
 
-# Overview
+## Overview
 |       file_name        |measures|labels|standard|                annotators                 |reviewers|
 |------------------------|-------:|-----:|--------|-------------------------------------------|---------|
 |hwv430d_Grobschmied_Aria|       9|    51|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
@@ -14,4 +14,4 @@ Readily annotated
 |hwv430d_Grobschmied_Var5|      12|    61|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.1.*
+*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
