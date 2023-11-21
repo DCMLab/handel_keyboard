@@ -243,7 +243,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.2009</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Subtitle</style>
@@ -271,13 +271,19 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-11.4108" y="-16.9323"/>
+            <offset x="-11.3142" y="-3.20967"/>
             <text>Allegro brillante.</text>
             </SystemText>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
