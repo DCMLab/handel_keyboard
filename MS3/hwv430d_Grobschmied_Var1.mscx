@@ -243,7 +243,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.7225</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Subtitle</style>
@@ -274,6 +274,12 @@
             <velocity>49</velocity>
             <offset x="-0.0837101" y="5.32023"/>
             </Dynamic>
+          <Tempo>
+            <tempo>0.83333333333333337</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 50</b></text>
+            </Tempo>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
