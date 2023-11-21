@@ -243,7 +243,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>17.4307</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Subtitle</style>
@@ -277,9 +277,15 @@
             </Dynamic>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-12.9163" y="-18.3515"/>
+            <offset x="-13.3074" y="-7.40096"/>
             <text>Un poco più mosso.</text>
             </SystemText>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
