@@ -2433,6 +2433,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.151897" y="6.36123"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
