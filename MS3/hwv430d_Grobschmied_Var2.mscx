@@ -246,13 +246,16 @@
         <height>10</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: Suite in E Major, HWV 430</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <offset x="-0.113377" y="-10.3841"/>
-          <text>G. Händel</text>
+          <text>Georg Friedrich Händel</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text>Var. 2</text>
+          <text>The Harmonious Blacksmith: Variation 2</text>
           </Text>
         </VBox>
       <Measure len="3/4">
