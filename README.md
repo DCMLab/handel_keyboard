@@ -14,4 +14,4 @@ Readily annotated
 |hwv430d_Grobschmied_Var5|      12|    61|2.3.0   |Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)|DK       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*

@@ -151,26 +151,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q7302</metaTag>
     <metaTag name="annotators">Adrian Nagel (2.1.0), Davor Krkljus (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1720</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1720</metaTag>
     <metaTag name="composer">Georg Friedrich Händel</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-08-01</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/Suite_in_E_major%2C_HWV_430_(Handel%2C_George_Frideric)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">4</metaTag>
-    <metaTag name="movementTitle">Variation 2</metaTag>
+    <metaTag name="movementTitle">The Harmonious Blacksmith: Variation 2</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/a2537e39-31cc-4b40-8f87-c0a4b33919cb</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/85857</metaTag>
     <metaTag name="platform">Linux</metaTag>
     <metaTag name="poet"></metaTag>
     <metaTag name="reviewers">DK</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/4651167867552523060002/</metaTag>
+    <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3793888</metaTag>
     <metaTag name="workNumber">HWV 430</metaTag>
-    <metaTag name="workTitle">Suite in E major</metaTag>
+    <metaTag name="workTitle">Suite in E Major</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -237,16 +243,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>17.4307</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: Suite in E Major, HWV 430</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <offset x="-0.113377" y="-10.3841"/>
-          <text>G. Händel</text>
+          <text>Georg Friedrich Händel</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text>Var. 2</text>
+          <text>The Harmonious Blacksmith: Variation 2</text>
           </Text>
         </VBox>
       <Measure len="3/4">
@@ -268,9 +277,15 @@
             </Dynamic>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-12.9163" y="-18.3515"/>
+            <offset x="-13.3074" y="-7.40096"/>
             <text>Un poco più mosso.</text>
             </SystemText>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 72</b></text>
+            </Tempo>
           <Chord>
             <durationType>half</durationType>
             <Articulation>
