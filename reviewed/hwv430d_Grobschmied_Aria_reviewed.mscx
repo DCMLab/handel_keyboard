@@ -243,17 +243,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>16.5553</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: Suite in E Major, HWV 430</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <offset x="-0.29277" y="-11.1942"/>
-          <text>G. Händel</text>
+          <text>Georg Friedrich Händel</text>
           </Text>
         <Text>
           <style>Title</style>
-          <offset x="-0.180863" y="-4.78693"/>
-          <text>Aria con Variazioni</text>
+          <text>The Harmonious Blacksmith: Air</text>
           </Text>
         </VBox>
       <Measure>
@@ -268,12 +270,18 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-15.9159" y="-19.0116"/>
+            <offset x="-15.5797" y="-4.28833"/>
             <text>Molto tranquillo e semplice.</text>
             </SystemText>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Tempo>
+            <tempo>0.83333333333333337</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 50</b></text>
+            </Tempo>
           <Rest>
             <offset x="0" y="2"/>
             <durationType>quarter</durationType>

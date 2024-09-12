@@ -243,16 +243,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.2009</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: Suite in E Major, HWV 430</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <offset x="0.277771" y="-7.21692"/>
-          <text>G. Händel</text>
+          <text>Georg Friedrich Händel</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text>Var. 5</text>
+          <text>The Harmonious Blacksmith: Variation 5</text>
           </Text>
         </VBox>
       <Measure len="3/4">
@@ -268,13 +271,19 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-11.4108" y="-16.9323"/>
+            <offset x="-11.3142" y="-3.20967"/>
             <text>Allegro brillante.</text>
             </SystemText>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
             </Dynamic>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>

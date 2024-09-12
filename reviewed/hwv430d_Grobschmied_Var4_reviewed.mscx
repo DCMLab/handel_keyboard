@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="3.02">
   <programVersion>3.6.2</programVersion>
-  <programRevision></programRevision>
+  <programRevision>3224f34</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -243,17 +243,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.7174</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>from: Suite in E Major, HWV 430</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <offset x="-0.103867" y="-8.86724"/>
-          <text>G. Händel</text>
+          <text>Georg Friedrich Händel</text>
           </Text>
         <Text>
           <style>Title</style>
-          <offset x="0.188903" y="-1.38484"/>
-          <text>Var. 4</text>
+          <text>The Harmonious Blacksmith: Variation 4</text>
           </Text>
         </VBox>
       <Measure len="3/4">
@@ -269,14 +271,20 @@
             </TimeSig>
           <SystemText>
             <style>Tempo</style>
-            <offset x="-10.3897" y="-16.2787"/>
-            <text>Distesso tempo.</text>
+            <offset x="-10.3897" y="-5.30742"/>
+            <text>L'istesso tempo.</text>
             </SystemText>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>75</velocity>
             <offset x="0.503058" y="5.29134"/>
             </Dynamic>
+          <Tempo>
+            <tempo>1.3999999999999999</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 84</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
