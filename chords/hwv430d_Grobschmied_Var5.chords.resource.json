@@ -174,21 +174,21 @@
         "type": "string"
       },
       {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "crescendo_line",
         "type": "string"
       },
       {
         "name": "crescendo_hairpin",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "-XXQFaCZWXskXA",
-    "filepath": "chords/-XXQFaCZWXskXA.schema.yaml",
+    "identifier": "V3mVhGLtDCn3CQ",
+    "filepath": "chords/V3mVhGLtDCn3CQ.schema.yaml",
     "used_in": "hwv430d_Grobschmied_Var5"
   },
   "creator": {
@@ -201,8 +201,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.4.1"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "8dc39d529df91a688d38c98f0cb984c91dbd2090",
-  "git_tag": "v1.0-9-g8dc39d5"
+  "git_revision": "ad7bbb3d8cde6ad6a62f406d2c0cc21a556058fc",
+  "git_tag": "v2.1"
 }
