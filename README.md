@@ -1,5 +1,5 @@
 ![Version](https://img.shields.io/github/v/release/DCMLab/handel_keyboard?display_name=tag)
-[![DOI](https://zenodo.org/badge/{{ zenodo_badge_id }}.svg)](https://doi.org/{{ concept_doi }})
+[![DOI](https://zenodo.org/badge/473145734.svg)](https://doi.org/10.5281/zenodo.14996996)
 ![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/handel_keyboard)
 ![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf)
 
@@ -90,7 +90,7 @@ Please [create an issue](https://github.com/DCMLab/handel_keyboard/issues) and/o
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Georg Friedrich Händel – Grobschmied Variations (The Harmonious Blacksmith), HWV 430 (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/{{ concept_doi }}
+> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Georg Friedrich Händel – Grobschmied Variations (The Harmonious Blacksmith), HWV 430 (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14996996
 
 ## License
 
